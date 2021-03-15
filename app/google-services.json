@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180800276534",
+    "firebase_url": "https://kolkataplayy-default-rtdb.firebaseio.com",
+    "project_id": "kolkataplayy",
+    "storage_bucket": "kolkataplayy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180800276534:android:69c4efe1f970834c213097",
+        "android_client_info": {
+          "package_name": "com.nick.kolkataplayy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180800276534-e9i0jb5djsekmr6squpv50uoi6erl3oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73ZVU1vLLPdsb8JO1ILtQWRUD8JwteLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180800276534-e9i0jb5djsekmr6squpv50uoi6erl3oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
